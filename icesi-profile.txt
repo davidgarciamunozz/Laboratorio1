@@ -1,0 +1,3 @@
+NOMBRE: Juan David 
+APELLIDO: Garcia Muñoz
+FECHA DE NACIMIENTO: 2005-07-10
